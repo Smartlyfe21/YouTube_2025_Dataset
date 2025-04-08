@@ -1,6 +1,7 @@
 # YouTube 2025 Dataset
 
-![Project Logo](path_to_logo_image)
+![YouTube Logo](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)
+
 
 ## Overview
 
